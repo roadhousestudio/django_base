@@ -99,3 +99,22 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# File types
+*.pyc
+*.dump
+*.gz
+*.swn
+*.swo
+*.swp
+
+# OS files
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+*~
+
+# Configuration files
+/app/local_settings.py
+/static

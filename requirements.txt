@@ -1,0 +1,7 @@
+Django==1.11.7
+
+# Libs
+psycopg2
+
+# Apps
+django-extensions

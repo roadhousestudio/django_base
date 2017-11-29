@@ -1,0 +1,36 @@
+<!doctype html>
+{% load static %}
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="{% static 'img/favicon.ico' %}">
+
+    <title>{% block title %}{% endblock title %} | Django base</title>
+
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" crossorigin="anonymous">
+
+    <link href="{% static 'libs/bootstrap/css/bootstrap.min.css' %}" rel="stylesheet" type='text/css'>
+    <link href="{% static 'css/main.css' %}" rel="stylesheet" type='text/css'>
+    {% block css %}{% endblock %}
+  </head>
+  <body>
+
+  <!-- Application header or nav-bar -->
+
+  {% block content %}{% endblock content %}
+
+    <footer>
+      <!-- Application footer -->
+    </footer>
+
+    <script src="{% static 'libs/jquery/jquery-3.2.1.min.js' %}"></script>
+    <script src="{% static 'libs/popper/popper.min.js' %}"></script>
+    <script src="{% static 'libs/bootstrap/js/bootstrap.min.js' %}"></script>
+    <script src="{% static 'js/main.js' %}"></script>
+    {% block js %}{% endblock %}
+  </body>
+</html>
