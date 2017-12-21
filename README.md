@@ -1,6 +1,6 @@
 # Django base
 
-basic [Django](https://www.djangoproject.com/) project image to easy and quickly run up, using [Docker](https://www.docker.com/), [PostgreSQL](https://www.postgresql.org/) and [Bootstrap 4](https://v4-alpha.getbootstrap.com/).
+basic [Django](https://www.djangoproject.com/) project image to easy and quickly run up, using [Docker](https://www.docker.com/), [PostgreSQL](https://www.postgresql.org/), [Bootstrap 4](https://v4-alpha.getbootstrap.com/) and [JQuery](https://jquery.com/).
 
 ## Run the project
 
@@ -33,7 +33,7 @@ Now you can navigate to *localhost:8000* in your browser and you will see a Djan
 ## Architecture
 
 Python 3.6.0
-Django 1.11.7
+Django 2.0
 PostgreSQL 10.1
 Bootstrap 4
 Jquery 3.2.1
@@ -49,3 +49,5 @@ Jquery 3.2.1
 3. Change the name of the root folder from *django_base* to your project name, and go to *docker-compose.yml* and edit image names from *djangobase* to your project name.
 
 4. If you have any suggestion or you want to contribute, I want to recommend you register it on [utopian.io](https://utopian.io/).
+
+[Cómo iniciar my proyecto Django]().
