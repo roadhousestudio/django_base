@@ -57,7 +57,7 @@ Jquery 3.2.1
 
 ***
 
-**How was this repository build?**
+**How was this repository built?**
 
 - [Step by step guide to create a django_base project repository](https://steemit.com/utopian-io/@coffeesource.net/step-by-step-guide-to-create-a-djangobase-project-repository)
 - [Pasos para crear el repositorio django_base](https://steemit.com/utopian-io/@kit.andres/pasos-para-crear-el-repositorio-del-proyecto-djangobase)
@@ -65,4 +65,4 @@ Jquery 3.2.1
 **How setup a new Django project?**
 
 
-[Cómo iniciar mi proyecto Django](https://steemit.com/utopian-io/@kit.andres/configuracion-inicial-de-mi-propio-proyecto-django-usando-el-repositorio-djangobase).
+- [Cómo iniciar mi proyecto Django](https://steemit.com/utopian-io/@kit.andres/configuracion-inicial-de-mi-propio-proyecto-django-usando-el-repositorio-djangobase).
