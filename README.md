@@ -33,10 +33,15 @@ Now you can navigate to *localhost:8000* in your browser and you will see a Djan
 ## Architecture
 
 Python 3.6.0
+
 Django 2.0
+
 PostgreSQL 10.1
+
 Bootstrap 4
+
 Jquery 3.2.1
+
 
 ## keep in mind
 
@@ -50,4 +55,14 @@ Jquery 3.2.1
 
 4. If you have any suggestion or you want to contribute, I want to recommend you register it on [utopian.io](https://utopian.io/).
 
-[Cómo iniciar my proyecto Django]().
+***
+
+**How was this repository build?**
+
+- [Step by step guide to create a django_base project repository](https://steemit.com/utopian-io/@coffeesource.net/step-by-step-guide-to-create-a-djangobase-project-repository)
+- [Pasos para crear el repositorio django_base](https://steemit.com/utopian-io/@kit.andres/pasos-para-crear-el-repositorio-del-proyecto-djangobase)
+
+**How setup a new Django project?**
+
+
+[Cómo iniciar mi proyecto Django](https://steemit.com/utopian-io/@kit.andres/configuracion-inicial-de-mi-propio-proyecto-django-usando-el-repositorio-djangobase).
