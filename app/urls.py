@@ -17,6 +17,7 @@ from django.conf.urls import url
 from django.contrib import admin
 
 from app.views import HomeView
+from app.views import WordsSimilarityView
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
@@ -25,5 +26,10 @@ urlpatterns = [
         r'^$',
         HomeView.as_view(),
         name='home',
+    ),
+    url(
+        r'^words-similarity/$',
+        WordsSimilarityView.as_view(),
+        name='words_similarity',
     ),
 ]
