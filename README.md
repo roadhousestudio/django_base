@@ -14,7 +14,7 @@ Download Docker from the [offical website](https://docs.docker.com/engine/instal
 
 Clone the project code locally using [Git](https://git-scm.com/):
 
-    git clone git@github.com:roadhousestudio/django_base.git
+    git clone git@github.com:augustakingfoundation/django_base.git
 
 3. **Build the Docker image**
 
